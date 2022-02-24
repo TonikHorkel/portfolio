@@ -1,13 +1,5 @@
-theme: "jekyll-theme-cayman"
-title: "Tondovo portfolio"
-description: "Zde je pár mých projektů, kterými bych se chtěl pochlubit."
-preferences:
-  - type: dropdown
-    name: language
-    label: Language
-    description: Choose your preferred language.
-    options:
-      - label: English
-        value: en
-      - label: Español
-        value: es
+theme: jekyll-theme-cayman
+title: Tondovo portfolio
+description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
+avatar: https://avatars.githubusercontent.com/u/59200680?v=4
+round-avatar: true
