@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
-title: Tondovo portfolio
-description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
+theme: "jekyll-theme-cayman"
+title: "Tondovo portfolio"
+title_separator: "-"
+description: "Zde je pár mých projektů, kterými bych se chtěl pochlubit."
 repository: "github.com/tonikhorkel"
