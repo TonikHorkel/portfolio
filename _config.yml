@@ -1,6 +1,13 @@
 theme: "jekyll-theme-cayman"
 title: "Tondovo portfolio"
-title_separator: "-"
-tagline: "Your sidekick in using GitHub Pages and blogs"
 description: "Zde je pár mých projektů, kterými bych se chtěl pochlubit."
-repository: "github.com/tonikhorkel"
+preferences:
+  - type: dropdown
+    name: language
+    label: Language
+    description: Choose your preferred language.
+    options:
+      - label: English
+        value: en
+      - label: Español
+        value: es
