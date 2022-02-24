@@ -1,5 +1,3 @@
-# Tondovo portfolio
-
 # Mandelbulb
 
 # Mandelbrot
