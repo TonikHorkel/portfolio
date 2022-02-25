@@ -13,7 +13,7 @@ Kliknutím přehrajete video.
 # Rendrování Mandelbrot fraktálu v reálném čase [#](#rendrování-mandelbrot-fraktálu-v-reálném-čase-)
 Zdrojový kód
 OpenGL mandelbrot fractal renderer written in [Odin](http://odin-lang.org) over the course of a few days. [Download](https://github.com/TonikHorkel/mandelbrot/releases).<br/>
-## Ovládání [#](#ovládání)
+## Ovládání [#](#ovládání-)
 Click and drag to move around. Zoom with scroll wheel.
 ## Video ukázka [#](#video-ukázka-1)
 Kliknutím přehrajete video.
