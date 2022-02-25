@@ -2,7 +2,6 @@
 layout: default
 title: Tondovo portfolio
 description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
-lang: cz
 ---
 # Rendrování Mandelbulb fraktálu v reálném čase [#](#rendrování-mandelbulb-fraktálu-v-reálném-čase-)
 Tento projekt jsem naprogramoval během jednoho dne v [Odinu](https://odin-lang.org) a GLSL.<br/>
