@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: Tondovo portfolio
 description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
-show_downloads: false
+# show_downloads: false
 github: https://github.com/TonikHorkel
