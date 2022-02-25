@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [Tondovo portfolio](https://tonikhorkel.github.io/portfolio)
+title: Tondovo portfolio
 description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
 ---
 # Rendrování Mandelbulb fraktálu v reálném čase [#](#rendrování-mandelbulb-fraktálu-v-reálném-čase-)
