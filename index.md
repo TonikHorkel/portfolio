@@ -7,6 +7,8 @@ description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
 Tento projekt jsem naprogramoval během jednoho dne v [Odinu](https://odin-lang.org) a GLSL.<br/>
 | [Zdojový kód](https://github.com/TonikHorkel/mandelbulb) | [Stáhnout](https://github.com/TonikHorkel/mandelbulb/releases) |
 |:---------------------------------------------------------|:---------------------------------------------------------------|
+| [Zdojový kód](https://github.com/TonikHorkel/mandelbulb) | [Stáhnout](https://github.com/TonikHorkel/mandelbulb/releases) |
+| [Zdojový kód](https://github.com/TonikHorkel/mandelbulb) | [Stáhnout](https://github.com/TonikHorkel/mandelbulb/releases) |
 ## Video ukázka [#](#video-ukázka-)
 Kliknutím přehrajete video.
 [![Video](https://i.ytimg.com/vi_webp/u2-VxtBswD4/maxresdefault.webp)](https://www.youtube.com/watch?v=u2-VxtBswD4)
