@@ -1,7 +1,7 @@
-# Mandelbulb
+## Mandelbulb
 
-# Mandelbrot
+## Mandelbrot
 
-# Design a výroba vlastního CPU a assembly jazyka
+## Design a výroba vlastního CPU a assembly jazyka
 
-# Tvorva a správa webových stránek pro časopis Maják
+## Tvorva a správa webových stránek pro časopis Maják
