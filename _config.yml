@@ -1,9 +1,9 @@
 theme: jekyll-theme-cayman
-title: Tondovo portfolio
-description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
+lang: cs
+# title: Tondovo portfolio
+# description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
 show_downloads: false
 github:
   repository_name: This page
-  # project_tagline: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
   repository_url: https://github.com/TonikHorkel
   owner_name: Tonda Horkel
