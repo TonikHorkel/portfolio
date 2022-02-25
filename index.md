@@ -4,6 +4,7 @@ title: Tondovo portfolio
 description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
 ---
 # Rendrování Mandelbulb fraktálu v reálném čase s OpenGL
+Tento projekt jsem naprogramoval během jednoho dne v [Odinu](http://odin-lang.org) a GLSL.<br/>
 [Zdojový kód](https://github.com/TonikHorkel/mandelbulb).<br/>
 [Stáhnout](https://github.com/TonikHorkel/mandelbulb/releases).
 ## Video ukázka
