@@ -25,3 +25,4 @@ Cílem tohoto projektu je vyvinout jednoduchý assembler a navrhnout a sestavit 
 # Tvorva a správa webových stránek pro časopis Maják [#](#tvorva-a-správa-webových-stránek-pro-časopis-maják-)
 Na začátku lockdownu v roce 2020 jsem vytvořil [webovou stránku pro časopis Maják](https://horkel.net).
 # Tvorba titulní strany časopisu Maják [#](#design-titulní-strany-časopisu-maják-)
+![Obrázek](majak.svg)
