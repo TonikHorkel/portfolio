@@ -10,7 +10,7 @@ Tento projekt jsem naprogramoval během jednoho dne v [Odinu](https://odin-lang.
 | [Zdojový kód](https://github.com/TonikHorkel/mandelbulb) | [Stáhnout](https://github.com/TonikHorkel/mandelbulb/releases) |
 | [Zdojový kód](https://github.com/TonikHorkel/mandelbulb) | [Stáhnout](https://github.com/TonikHorkel/mandelbulb/releases) |
 
-| head1        | head two          | three |
+| [Zdojový kód](https://github.com/TonikHorkel/mandelbulb)        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
