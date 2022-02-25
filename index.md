@@ -10,7 +10,7 @@ Tento projekt jsem naprogramoval během jednoho dne v [Odinu](https://odin-lang.
 Kliknutím přehrajete video.<br/><br/>
 [![Video](https://i.ytimg.com/vi_webp/u2-VxtBswD4/maxresdefault.webp)](https://www.youtube.com/watch?v=u2-VxtBswD4)
 # Rendrování Mandelbrot fraktálu v reálném čase [#](#rendrování-mandelbrot-fraktálu-v-reálném-čase-)
-Protože jsem se chtěl naučit používat OpenGL a GLSL, tak jsem za pár dnů naprogramoval jednoduchý program na rendrováni Mandelbrot fraktálu.<br/><br/>
+Protože jsem se chtěl naučit používat OpenGL a GLSL, tak jsem za pár dnů naprogramoval tento jednoduchý program na rendrováni Mandelbrot fraktálu.<br/><br/>
 [Zdojový kód](https://github.com/TonikHorkel/mandelbulb) a [odkaz na stažení](https://github.com/TonikHorkel/mandelbulb/releases) jsou k dispozici na mém [Githubu](https://github.com/TonikHorkel).
 ## Ovládání [#](#ovládání-)
 Kliknutím a tažením se můžete pohybovat. Přibližujte pomocí rolovacího kolečka.
@@ -23,6 +23,6 @@ Kliknutím přehrajete video.<br/><br/>
 Cílem tohoto projektu je vyvinout jednoduchý assembler a navrhnout a sestavit 8-bitové relé CPU.<br/><br/>
 [Zde](https://github.com/TonikHorkel/Sigma) si můžete prohlédnout jak velký pokrok jsem na tom zatím udělal.
 # Tvorva a správa webových stránek pro časopis Maják [#](#tvorva-a-správa-webových-stránek-pro-časopis-maják-)
-Na začátku lockdownu v roce 2020 jsem vytvořil [webovou stránku pro časopis Maják](https://horkel.net).
+Na začátku lockdownu v roce 2020 jsem vytvořil [webovou stránku pro časopis Maják](https://horkel.net) a doposud ji spravuju.
 # Tvorba titulní strany časopisu Maják [#](#design-titulní-strany-časopisu-maják-)
 ![Obrázek](majak.svg)
