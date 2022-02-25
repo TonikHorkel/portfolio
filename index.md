@@ -6,12 +6,12 @@ description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
 # Rendrování Mandelbulb fraktálu v reálném čase [#](#rendrování-mandelbulb-fraktálu-v-reálném-čase-)
 Tento projekt jsem naprogramoval během jednoho dne v [Odinu](https://odin-lang.org) a GLSL.<br/>
 
-| [Zdojový kód](https://github.com/TonikHorkel/mandelbulb) | [Stáhnout](https://github.com/TonikHorkel/mandelbulb/releases) | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| [Zdojový kód](https://github.com/TonikHorkel/mandelbulb) | [Stáhnout](https://github.com/TonikHorkel/mandelbulb/releases) |
+|:-------------|:------------------|
+| ok           | good swedish fish |
+| out of stock | good and plenty   |
+| ok           | good `oreos`      |
+| ok           | good `zoute` drop |
 
 ## Video ukázka [#](#video-ukázka-)
 Kliknutím přehrajete video.
