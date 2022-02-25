@@ -5,15 +5,16 @@ description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
 ---
 # Rendrování Mandelbulb fraktálu v reálném čase [#](#rendrování-mandelbulb-fraktálu-v-reálném-čase-)
 Tento projekt jsem naprogramoval během jednoho dne v [Odinu](https://odin-lang.org) a GLSL.<br/>
+Jako kostru tohoto programu jsem použil můj [předchozí program](#rendrování-mandelbrot-fraktálu-v-reálném-čase-).
 [Zdojový kód](https://github.com/TonikHorkel/mandelbulb) a [odkaz na stažení](https://github.com/TonikHorkel/mandelbulb/releases) jsou mimo jiné na mém [githubu](https://github.com/TonikHorkel).
 ## Video ukázka [#](#video-ukázka-)
 Kliknutím přehrajete video.
 [![Video](https://i.ytimg.com/vi_webp/u2-VxtBswD4/maxresdefault.webp)](https://www.youtube.com/watch?v=u2-VxtBswD4)
 # Rendrování Mandelbrot fraktálu v reálném čase [#](#rendrování-mandelbrot-fraktálu-v-reálném-čase-)
-.<br/>
-[Zdojový kód](https://github.com/TonikHorkel/mandelbulb) a [odkaz na stažení](https://github.com/TonikHorkel/mandelbulb/releases) jsou mimo jiné na mém [githubu](https://github.com/TonikHorkel).
+Protože jsem se chtěl naučit používat OpenGL a GLSL, tak jsem za pár dnů naprogramoval jednoduchý program na rendrováni Mandelbrot fraktálu.<br/>
+[Zdojový kód](https://github.com/TonikHorkel/mandelbulb) a [odkaz na stažení](https://github.com/TonikHorkel/mandelbulb/releases) jsou k dispozici na mém [githubu](https://github.com/TonikHorkel).
 ## Ovládání [#](#ovládání-)
-Click and drag to move around. Zoom with scroll wheel.
+Kliknutím a tažením se můžete pohybovat. Přibližujte pomocí rolovacího kolečka.
 ## Video ukázka [#](#video-ukázka--1)
 Kliknutím přehrajete video.
 [![Video](https://i.ytimg.com/vi_webp/9uYSgWLRBX0/maxresdefault.webp)](https://www.youtube.com/watch?v=9uYSgWLRBX0)
