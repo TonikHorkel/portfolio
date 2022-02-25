@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Tondovo portfolio
+description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
 ---
 ## Mandelbulb
 
