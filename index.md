@@ -20,6 +20,7 @@ Kliknutím přehrajete video.<br/><br/>
 # Design a výroba vlastního CPU a assembly jazyka [#](#design-a-výroba-vlastního-cpu-a-assembly-jazyka-)
 > Tento projekt není ještě dokončený.<br/>
 
-Cílem tohoto projektu je vyvinout vlastní assembler a 
+Cílem tohoto projektu je vyvinout jednoduchý assembler a navrhnout a sestavit 8-bitové relé CPU.<br/><br/>
+[Zde](https://github.com/TonikHorkel/Sigma) si můžete prohlédnout jak velký pokrok jsem na tom zatím udělal.
 # Tvorva a správa webových stránek pro časopis Maják [#](#tvorva-a-správa-webových-stránek-pro-časopis-maják-)
 # Tvorba titulní strany časopisu Maják [#](#design-titulní-strany-časopisu-maják-)
