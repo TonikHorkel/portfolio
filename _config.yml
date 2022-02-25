@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
-language: cz
+page:
+  title: Tondovo portfolio
 title: Tondovo portfolio
 description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
 show_downloads: false
