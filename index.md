@@ -18,6 +18,6 @@ Click and drag to move around. Zoom with scroll wheel.
 ## Video ukázka [#](#video-ukázka--1)
 Kliknutím přehrajete video.
 [![Video](https://i.ytimg.com/vi_webp/9uYSgWLRBX0/maxresdefault.webp)](https://www.youtube.com/watch?v=9uYSgWLRBX0)
-# Design a výroba vlastního CPU a assembly jazyka [#](#h)
+# Design a výroba vlastního CPU a assembly jazyka [#](#design-a-výroba-vlastního-cpu-a-assembly-jazyka-)
 
-# Tvorva a správa webových stránek pro časopis Maják [#](#h)
+# Tvorva a správa webových stránek pro časopis Maják [#]()
