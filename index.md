@@ -10,8 +10,8 @@ Tento projekt jsem naprogramoval během jednoho dne v [Odinu](https://odin-lang.
 Kliknutím přehrajete video.
 [![Video](https://i.ytimg.com/vi_webp/u2-VxtBswD4/maxresdefault.webp)](https://www.youtube.com/watch?v=u2-VxtBswD4)
 # Rendrování Mandelbrot fraktálu v reálném čase [#](#rendrování-mandelbrot-fraktálu-v-reálném-čase-)
-Zdrojový kód
-OpenGL mandelbrot fractal renderer written in [Odin](https://odin-lang.org) over the course of a few days. [Download](https://github.com/TonikHorkel/mandelbrot/releases).<br/>
+OpenGL mandelbrot fractal renderer written in [Odin](https://odin-lang.org) over the course of a few days.<br/>
+[Zdojový kód](https://github.com/TonikHorkel/mandelbulb) a [odkaz na stažení](https://github.com/TonikHorkel/mandelbulb/releases) jsou mimo jiné na mém [githubu](https://github.com/TonikHorkel).
 ## Ovládání [#](#ovládání-)
 Click and drag to move around. Zoom with scroll wheel.
 ## Video ukázka [#](#video-ukázka--1)
