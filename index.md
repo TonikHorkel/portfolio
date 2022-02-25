@@ -18,9 +18,10 @@ Kliknutím a tažením se můžete pohybovat. Přibližujte pomocí rolovacího 
 Kliknutím přehrajete video.<br/><br/>
 [![Video](https://i.ytimg.com/vi_webp/9uYSgWLRBX0/maxresdefault.webp)](https://www.youtube.com/watch?v=9uYSgWLRBX0)
 # Design a výroba vlastního CPU a assembly jazyka [#](#design-a-výroba-vlastního-cpu-a-assembly-jazyka-)
-> Tento projekt není ještě dokončený.<br/>
+> Tento projekt ještě není dokončený.<br/>
 
 Cílem tohoto projektu je vyvinout jednoduchý assembler a navrhnout a sestavit 8-bitové relé CPU.<br/><br/>
 [Zde](https://github.com/TonikHorkel/Sigma) si můžete prohlédnout jak velký pokrok jsem na tom zatím udělal.
 # Tvorva a správa webových stránek pro časopis Maják [#](#tvorva-a-správa-webových-stránek-pro-časopis-maják-)
+Na začátku lockdownu, v roce 2020 jsem vytvořil [webovou stránku pro časopis Maják](https://horkel.net).
 # Tvorba titulní strany časopisu Maják [#](#design-titulní-strany-časopisu-maják-)
