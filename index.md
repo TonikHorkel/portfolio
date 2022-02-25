@@ -5,9 +5,8 @@ description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
 ---
 # Rendrování Mandelbulb fraktálu v reálném čase [#](#rendrování-mandelbulb-fraktálu-v-reálném-čase-)
 Tento projekt jsem naprogramoval během jednoho dne v [Odinu](https://odin-lang.org) a GLSL.<br/>
-|  | [Stáhnout](https://github.com/TonikHorkel/mandelbulb/releases) | three |
 
-| [Zdojový kód](https://github.com/TonikHorkel/mandelbulb) | head two          | three |
+| [Zdojový kód](https://github.com/TonikHorkel/mandelbulb) | [Stáhnout](https://github.com/TonikHorkel/mandelbulb/releases) | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
