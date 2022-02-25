@@ -18,6 +18,7 @@ Kliknutím a tažením se můžete pohybovat. Přibližujte pomocí rolovacího 
 Kliknutím přehrajete video.<br/><br/>
 [![Video](https://i.ytimg.com/vi_webp/9uYSgWLRBX0/maxresdefault.webp)](https://www.youtube.com/watch?v=9uYSgWLRBX0)
 # Design a výroba vlastního CPU a assembly jazyka [#](#design-a-výroba-vlastního-cpu-a-assembly-jazyka-)
-
+> Tento projekt není ještě dokončený. 
+Cílem tohoto projektu je vyvinout vlastní assembler a 
 # Tvorva a správa webových stránek pro časopis Maják [#](#tvorva-a-správa-webových-stránek-pro-časopis-maják-)
 # Tvorba titulní strany časopisu Maják [#](#design-titulní-strany-časopisu-maják-)
