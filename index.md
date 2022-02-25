@@ -8,10 +8,6 @@ Tento projekt jsem naprogramoval během jednoho dne v [Odinu](https://odin-lang.
 
 | [Zdojový kód](https://github.com/TonikHorkel/mandelbulb) | [Stáhnout](https://github.com/TonikHorkel/mandelbulb/releases) |
 |:-------------|:------------------|
-| ok           | good swedish fish |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
 
 ## Video ukázka [#](#video-ukázka-)
 Kliknutím přehrajete video.
