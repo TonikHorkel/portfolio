@@ -4,7 +4,7 @@ title: Tondovo portfolio
 description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
 ---
 # Rendrování Mandelbulb fraktálu v reálném čase [#](#rendrování-mandelbulb-fraktálu-v-reálném-čase-)
-Tento projekt jsem naprogramoval během jednoho dne v [Odinu](https://odin-lang.org) a GLSL. Jako kostru jsem použil můj [tento program](#rendrování-mandelbrot-fraktálu-v-reálném-čase-).<br/><br/>
+Tento projekt jsem naprogramoval během jednoho dne v [Odinu](https://odin-lang.org) a GLSL. Jako kostru jsem použil [tento program](#rendrování-mandelbrot-fraktálu-v-reálném-čase-).<br/><br/>
 [Zdojový kód](https://github.com/TonikHorkel/mandelbulb) a [odkaz na stažení](https://github.com/TonikHorkel/mandelbulb/releases) jsou mimo jiné na mém [Githubu](https://github.com/TonikHorkel).
 ## Video ukázka [#](#video-ukázka-)
 Kliknutím přehrajete video.<br/><br/>
@@ -22,7 +22,7 @@ Kliknutím přehrajete video.<br/><br/>
 
 Cílem tohoto projektu je vyvinout jednoduchý assembler a navrhnout a sestavit 8-bitové relé CPU.<br/><br/>
 [Zde](https://github.com/TonikHorkel/Sigma) si můžete prohlédnout jak velký pokrok jsem na tom zatím udělal.
-# Tvorva a správa webových stránek pro časopis Maják [#](#tvorva-a-správa-webových-stránek-pro-časopis-maják-)
-Na začátku lockdownu v roce 2020 jsem vytvořil [webovou stránku pro časopis Maják](https://horkel.net) a doposud ji spravuju.
+# Tvorba a správa webových stránek pro časopis Maják [#](#tvorva-a-správa-webových-stránek-pro-časopis-maják-)
+Na začátku lockdownu v roce 2020 jsem vytvořil [webovou stránku pro časopis Maják](https://horkel.net) a teď jsem jejím správcem.
 # Tvorba titulní strany časopisu Maják [#](#design-titulní-strany-časopisu-maják-)
 ![Obrázek](majak.svg)
