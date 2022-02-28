@@ -23,6 +23,6 @@ Kliknutím přehrajete video.<br/><br/>
 Cílem tohoto projektu je vyvinout jednoduchý assembler a navrhnout a sestavit 8-bitové relé CPU.<br/><br/>
 [Zde](https://github.com/TonikHorkel/Sigma) si můžete prohlédnout jak velký pokrok jsem na tom zatím udělal.
 # Tvorba a správa webových stránek pro časopis Maják [#](#tvorva-a-správa-webových-stránek-pro-časopis-maják-)
-Na začátku lockdownu v roce 2020 jsem vytvořil [webovou stránku pro časopis Maják](https://horkel.net) a teď jsem jejím správcem.
+Na začátku lockdownu v roce 2020 jsem vytvořil [webovou stránku pro časopis Maják](http://horkel.net.srv71.endora.cz) a teď jsem jejím správcem.
 # Tvorba titulní strany časopisu Maják [#](#design-titulní-strany-časopisu-maják-)
 ![Obrázek](majak.svg)
