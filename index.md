@@ -3,6 +3,9 @@ layout: default
 title: Tondovo portfolio
 description: Zde je pár mých projektů, kterými bych se chtěl pochlubit.
 ---
+# Generování náhodné planety [#](#generování-náhodné-planety-)
+Jednoduchý prototyp naprogramovaný v [Odinu](https://odin-lang.org). Jako API pro rendrování používám GLSL.<br/><br/>
+![Obrázek](planeta.png)
 # Rendrování Mandelbulb fraktálu v reálném čase [#](#rendrování-mandelbulb-fraktálu-v-reálném-čase-)
 Tento projekt jsem naprogramoval během jednoho dne v [Odinu](https://odin-lang.org) a GLSL. Jako kostru jsem použil [tento program](#rendrování-mandelbrot-fraktálu-v-reálném-čase-).<br/><br/>
 [Zdrojový kód](https://github.com/TonikHorkel/mandelbulb) a [odkaz na stažení](https://github.com/TonikHorkel/mandelbulb/releases) jsou mimo jiné na mém [Githubu](https://github.com/TonikHorkel).
